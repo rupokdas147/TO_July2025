@@ -1,13 +1,13 @@
 {
-  "ProjectName": "FMD_QNC_60_GHZ_LA",
-  "Shuttle": "MPW 0.13µm May 2025(T588)",
+  "ProjectName": "FMD_QNC_D_Band_Phase_Shifter",
+  "Shuttle": "MPW 0.13µm July 2025(T588)",
   "Technology": "SG13G2",
   "Design": {
-    "DesignName": "60 GHz Flat Gain Limiting Amplifier",
-    "FinalGdsName": "FMD_QNC_60_GHZ_LA.gds",
-    "TopCellName": "FMD_QNC_60_GHZ_LA",
-    "Width": "1.0099mm",
-    "Height": "1.0436mm",
+    "DesignName": "140 GHz to 170 GHz Full 360 degree Phase Shifter with 10 dB gain Control",
+    "FinalGdsName": "FMD_QNC_D_Band_PS.gds",
+    "TopCellName": "FMD_QNC_D_Band_PS",
+    "Width": "2.08mm",
+    "Height": "0.55mm",
     "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
