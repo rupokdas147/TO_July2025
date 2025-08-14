@@ -6,8 +6,8 @@
     "DesignName": "FMD_QNC_D_Band_Phase_Shifter",
     "FinalGdsName": "FMD_QNC_D_Band_Phase_Shifter.gds",
     "TopCellName": "FMD_QNC_D_Band_PS",
-    "Width": "2.0788mm",
-    "Height": "0.55mm",
+    "Width": "2.05mm",
+    "Height": "0.76mm",
     "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
