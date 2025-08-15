@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-database>
+ <description>design rules: sg13g2_maximal | layout cell: FMD_QNC_D_Band_PS</description>
+ <original-file>/home/rupok/Documents/TO_July2025/Phase_Shifter_D_band_360_degree/design_data/gds/FMD_QNC_D_Band_Phase_Shifter.gds</original-file>
+ <generator>drc: script='/home/rupok/IHP-Open-PDK/ihp-sg13g2/libs.tech/klayout/tech/drc/sg13g2_maximal.lydrc'</generator>
+ <top-cell>FMD_QNC_D_Band_PS</top-cell>
+ <tags>
+ </tags>
+ <categories>
+ </categories>
+ <cells>
+  <cell>
+   <name>FMD_QNC_D_Band_PS</name>
+   <variant/>
+   <layout-name/>
+   <references>
+   </references>
+  </cell>
+ </cells>
+ <items>
+ </items>
+</report-database>

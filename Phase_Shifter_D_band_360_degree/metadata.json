@@ -6,7 +6,7 @@
     "DesignName": "FMD_QNC_D_Band_Phase_Shifter",
     "FinalGdsName": "FMD_QNC_D_Band_Phase_Shifter.gds",
     "TopCellName": "FMD_QNC_D_Band_PS",
-    "Width": "2.05mm",
+    "Width": "2.0mm",
     "Height": "0.76mm",
     "NumberOfSamples": "10"
   },
