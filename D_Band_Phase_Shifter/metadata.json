@@ -1,5 +1,5 @@
 {
-  "ProjectName": "FMD_QNC_140_GHz_to_170_GHz_Full_360_degree_Phase_Shifter_with_10_dB_Gain_Control",
+  "ProjectName": "FMD_QNC_140_GHz_to_170_GHz_Full_360_degree_Phase_Shifter_TX_with_10_dB_Gain_Control",
   "Shuttle": "MPW 0.13µm Jul 2025(T593)",
   "Technology": "SG13G2",
   "Design": {
