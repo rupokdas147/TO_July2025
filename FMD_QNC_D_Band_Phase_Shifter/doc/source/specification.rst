@@ -1,4 +1,4 @@
-DC to 60 GHz Flat Gain Limiting Amplifier
+140 to 170 GHz Full 360° Phase Shifter with 5 dB of Gain Control
 ========================================================
 This document describes the specifications of the 60 GHz Flat Gain Limiting Amplifier (LA) designed for use in a 60 GHz transceiver system. The amplifier is intended to provide a flat gain response across the 60 GHz frequency band, with a focus on maintaining linearity and minimizing distortion.
 
