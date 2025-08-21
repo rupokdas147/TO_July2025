@@ -6,7 +6,7 @@
     "DesignName": "FMD_QNC_D_Band_Power_Amplifier",
     "FinalGdsName": "FMD_QNC_D_Band_PA.gds",
     "TopCellName": "FMD_QNC_CASCODE_PA",
-    "Width": "0.96mm",
+    "Width": "0.97mm",
     "Height": "0.66mm",
     "NumberOfSamples": "10"
   },
