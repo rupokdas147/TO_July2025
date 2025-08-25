@@ -4,7 +4,6 @@ This document describes the specifications of the D Band Power Amplifier, which 
 .. list-table:: **Specification**
    :widths: 400 200
    :header-rows: 1
-
    * - Specification
      - Value
    * - Supply Voltage
