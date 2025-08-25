@@ -1,6 +1,7 @@
 D Band Power Amplifier
 ========================================================
 This document describes the specifications of the D Band Power Amplifier, which is designed to operate in the frequency range of 140 GHz to 170 GHz.
+
 .. list-table:: **Specification**
    :widths: 400 200
    :header-rows: 1
