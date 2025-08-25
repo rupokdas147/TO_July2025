@@ -30,4 +30,4 @@ Layout Image:
    :width: 783 px
    :align: center
 
-   Layout of the 60 GHz Flat Gain Limiting Amplifier (LA).
+   Layout of the D Band Phase Shifter
