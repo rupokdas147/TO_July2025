@@ -13,7 +13,7 @@ This document describes the specifications of the D Band Power Amplifier, which 
      - 140 to 170 GHz
    * - Small Signal Gain
      - 9 dB
-   * - Saturation Output Power
+   * - Saturated Output Power
      - 7 dBm
    * - Power Consumption
      - 238 mW
